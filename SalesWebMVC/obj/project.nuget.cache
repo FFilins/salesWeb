@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UY9TcN10xixt1m0w/DAQVkJb8z1nwT9mRks7vMiutiNyEwAs2B7uWtPe7GXL0K04A5ahMFKHLAtW8PhFvEAhyw==",
+  "dgSpecHash": "g5Ey24Uxi6bKcJc6JQR2nVWSuR1mYUFd4Cs5ntS/tSJA/i0fmD1Rs4gZWsUs4g9HYdY3CtYdoDcqCY337Pyf7g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Felipe Clayton\\Documents\\projetos\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj",
+  "projectFilePath": "C:\\Users\\Felipe Clayton\\Documents\\projetos\\Inob\\salesWeb\\SalesWebMVC\\SalesWebMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Felipe Clayton\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Felipe Clayton\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
